@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prototype2.3</string>
+    <string name="click" />
+    <string name="upload" />
+    <string name="registration" />
+    <string name="already_user_login" />
+    <string name="password" />
+    <string name="contact_number" />
+    <string name="email" />
+    <string name="username" />
+</resources>
